@@ -1,0 +1,22 @@
+Creating a commit
+Once you have made changes to any local files in your repository, your changes appear in the Pending changes section.
+
+Modified files appear in the Working Directory section, and new files appear in the Untracked Files section. To commit new changes to the local repository, you'll first need to stage the changes.
+
+Staging Changes using Sublime Merge
+Staging an entire file: select the Stage file button at the top of the file
+Staging an entire hunk: select the Stage hunk button at the top of the file
+Staging individual lines: select the individual lines you wish to stage and select Stage lines
+
+
+Staging Lines
+
+Reviewing your changes before committing
+You can review staged changes by scrolling to the Staged files section of the summary page. Alternatively, you can select each staged file tab to view the file individually.
+
+Committing the staged changes
+Begin by entering a commit message using the commit message input located at the top of the screen by default. Once you've entered the commit message, select the Commit button.
+
+
+Commit Message Input
+
