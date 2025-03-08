@@ -16,3 +16,4 @@ class HelloWorld:
 # Create an instance of HelloWorld and call the hello method
 h = HelloWorld()
 h.hello("Yoshi")
+h.hello("Chan")
