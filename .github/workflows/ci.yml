@@ -26,4 +26,4 @@ jobs:
         run: ruff check .
 
       - name: Run Tests with Pytest
-	    run: PYTHONPATH=src pytest tests/
+        run: PYTHONPATH=src pytest tests/
